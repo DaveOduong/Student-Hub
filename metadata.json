@@ -1,0 +1,6 @@
+{
+  "name": "Student Hub",
+  "description": "Student Management System with database integration, student registration form, validation, and full-stack PHP/MySQL code suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
